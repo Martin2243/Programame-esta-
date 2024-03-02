@@ -9,4 +9,4 @@ Hola mundo, esto va suave, sabe bien suave, suaaave
 * o listas
 * todo bien
 
-esta bueno desde github
+no está del todo bien
